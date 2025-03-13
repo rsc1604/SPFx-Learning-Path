@@ -4,16 +4,16 @@
 ## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
-  - [ ] Const
-  - [ ] Let
-  - [ ] Template string
-  - [ ] Arrow functions
-  - [ ] Destructing
-  - [ ] ForEach
-  - [ ] Map
-  - [ ] Filter
-  - [ ] Findß
-  - [ ] Every
+  - [X] Const
+  - [X] Let
+  - [X] Template string
+  - [X] Arrow functions
+  - [X] Destructing
+  - [X] ForEach
+  - [X] Map
+  - [X] Filter
+  - [X] Findß
+  - [X] Every
   - [ ] Reduce
   - [ ] Spread
   - [ ] Rest
@@ -21,7 +21,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Classes
   - [ ] Generators
   - [ ] Promises
-  - [ ] Async / Await
+  - [X] Async / Await
   - [ ] Polyfills
 
 ## Resources
